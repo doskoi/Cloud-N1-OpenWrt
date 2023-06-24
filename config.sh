@@ -76,6 +76,7 @@ CONFIG_PACKAGE_kmod-br-netfilter=y
 CONFIG_PACKAGE_kmod-brcmfmac=y
 CONFIG_PACKAGE_kmod-brcmutil=y
 CONFIG_PACKAGE_kmod-cfg80211=y
+CONFIG_PACKAGE_kmod-fs-cifs=y
 CONFIG_PACKAGE_kmod-crypto-cbc=y
 CONFIG_PACKAGE_kmod-crypto-ccm=y
 CONFIG_PACKAGE_kmod-crypto-cmac=y
