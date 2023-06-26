@@ -51,7 +51,6 @@ CONFIG_PACKAGE_TAR_BZIP2=y
 CONFIG_PACKAGE_TAR_GZIP=y
 CONFIG_PACKAGE_TAR_XZ=y
 CONFIG_PACKAGE_TAR_ZSTD=y
-CONFIG_PACKAGE_aliyundrive-webdav=y
 CONFIG_PACKAGE_attr=y
 CONFIG_PACKAGE_bash=y
 CONFIG_PACKAGE_blkid=y
@@ -214,6 +213,8 @@ CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
 # CONFIG_PACKAGE_luci-app-upnp is not set
 # CONFIG_PACKAGE_luci-app-vsftpd is not set
+CONFIG_PACKAGE_luci-app-ttyd=y
+CONFIG_PACKAGE_luci-i18n-ttyd-zh-cn=y
 CONFIG_PACKAGE_luci-app-webadmin=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 CONFIG_PACKAGE_luci-i18n-amlogic-zh-cn=y
@@ -333,8 +334,8 @@ CONFIG_PACKAGE_luci-lib-ipkg=y
 CONFIG_PACKAGE_microsocks=y
 CONFIG_PACKAGE_miniupnpd=y
 CONFIG_PACKAGE_resolveip=y
-CONFIG_PACKAGE_shadowsocks-rust-sslocal=y
-CONFIG_PACKAGE_shadowsocks-rust-ssserver=y
+#CONFIG_PACKAGE_shadowsocks-rust-sslocal=y
+#CONFIG_PACKAGE_shadowsocks-rust-ssserver=y
 CONFIG_PACKAGE_tcping=y
 CONFIG_PACKAGE_vsftpd-alt=y
 CONFIG_PACKAGE_wol=y
