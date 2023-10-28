@@ -206,8 +206,8 @@ CONFIG_PACKAGE_luci-app-openvpn-server=y
 CONFIG_PACKAGE_luci-app-ramfree=y
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng is not set
 # CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-webui is not set
-# CONFIG_PACKAGE_luci-app-turboacc is not set
-# CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_BBR_CCA is not set
+# CONFIG_PACKAGE_luci-app-turboacc=y
+# CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_BBR_CCA=y
 # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_PDNSD is not set
 # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_SHORTCUT_FE_CM is not set
 # CONFIG_PACKAGE_luci-app-unblockmusic_INCLUDE_UnblockNeteaseMusic_Go is not set
